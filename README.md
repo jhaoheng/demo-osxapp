@@ -1,8 +1,8 @@
 # demo-osxapp
 
-NSStatusBar *statusBar
-NSStatusItem *statusItem;
-NSMenu *theMenu;
+- NSStatusBar *statusBar;  
+- NSStatusItem *statusItem;  
+- NSMenu *theMenu;  
 
 
 ## launch 後，dock 不顯示 app
